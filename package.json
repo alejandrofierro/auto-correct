@@ -1,0 +1,16 @@
+{
+  "name": "auto-correct",
+  "version": "1.0.0",
+  "description": "Auto Correct Words",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alejandro Fierro",
+  "repository": "",
+  "license": "",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
